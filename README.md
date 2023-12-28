@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekgumme" alt="abhishekgumme" /></a> </p>
 
-- 🌱 I’m currently learning **PG-DAC**
+- 🌱 I’m completed CDAC **PG-DAC**
 
 - 💬 Ask me about **Java,ReactjS,Spring,MySql**
 
